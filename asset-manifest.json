@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.c55bdca2.css",
+    "main.js": "/website/static/js/main.aecc6d1b.js",
+    "static/js/592.6d7de513.chunk.js": "/website/static/js/592.6d7de513.chunk.js",
+    "static/media/Yogesh.jpeg": "/website/static/media/Yogesh.5fd4f5996e5f9d463e42.jpeg",
+    "index.html": "/website/index.html",
+    "main.c55bdca2.css.map": "/website/static/css/main.c55bdca2.css.map",
+    "main.aecc6d1b.js.map": "/website/static/js/main.aecc6d1b.js.map",
+    "592.6d7de513.chunk.js.map": "/website/static/js/592.6d7de513.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c55bdca2.css",
+    "static/js/main.aecc6d1b.js"
+  ]
+}
